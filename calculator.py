@@ -2,7 +2,7 @@ from tkinter import *
 
 gui = Tk(className='Calculator')
 gui.geometry("346x370")
-gui.iconbitmap("C:/Users/My PC/Desktop/python project/Tkinter/eee.ico")
+gui.iconbitmap("C:/Users/My PC/Desktop/python project/Tkinter/icons.ico")
 gui.config(bg='#18191C')
 opr = ""
 text = StringVar()
